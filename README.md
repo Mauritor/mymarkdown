@@ -62,7 +62,7 @@ const doSome = e => {
 ```
 
 <!-- IMAGENES -->
-![un logo de node](https://pixabay.com/get/51e3d340435bb10ff3d8997cc12c3378113ad7f852547849742a73d79f4c_640.png "logo")
+![un logo de node](node.png "logo")
 
 <!-- EN GITHUB-->
 #### un ToDo
