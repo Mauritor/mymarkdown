@@ -67,4 +67,6 @@ const doSome = e => {
 <!-- EN GITHUB-->
 #### un ToDo
 * [x] Tarea 1
-* [] tearea 2
+* [ ] tearea 2
+
+@Mauritor :+1:
